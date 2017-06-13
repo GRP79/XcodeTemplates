@@ -15,4 +15,7 @@ Supported configurations:
 - Swift
 - Swift + Core Data
 
-Tested on Xcode 7.2 (Feb. 3rd 2016)
+Tested:
+
+* Xcode 7.2 (Feb. 3rd 2016)
+* Xcode 8.3.3 (June. 12th 2017)
